@@ -1,2 +1,2 @@
-# Kick Starer
+# Kick Starter
 
