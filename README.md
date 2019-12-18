@@ -29,7 +29,6 @@ Analysis of Kickstarter projects from 2009-2017 to determine the factors which c
 * Setting fundraising goal low helps in success in project.
 The median successful project had a funding goal nearly half of the median unsuccessful project.
 
-
 * Most of the projects were of Film and Video category.
 ![KickStarter](Images/KickstarterProjectsbyCategory.png)
 
