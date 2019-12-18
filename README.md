@@ -23,18 +23,18 @@ Analysis of Kickstarter projects from 2009-2017 to determine the factors which c
 
 ### Analysis
 * US has most backers as well as highest successful projects.
-![KickStarter](Images/KickstarterProjects(%)byCountry.png)
-![KickStarter](Images/SuccessfulKickstarterProjects(%)byCountry.png)
+![KickStarter](Images/KickstarterProjectsbyCountry.png)
+![KickStarter](Images/SuccessfulKickstarterProjectsbyCountry.png)
 
 * Setting fundraising goal low helps in success in project.
 The median successful project had a funding goal nearly half of the median unsuccessful project.
 
 
 * Most of the projects were of Film and Video category.
-![KickStarter](Images/KickstarterProjects(%)byCategory.png)
+![KickStarter](Images/KickstarterProjectsbyCategory.png)
 
 * Most of the successful projects were from music category.
-![KickStarter](Images/SuccessfulKickstarterProjects(%)byCategory.png)
+![KickStarter](Images/SuccessfulKickstarterProjectsbyCategory.png)
 
 * Projects with duration (projects launched - fundraising deadline) of 700 hours have high chances to be successful.
 The median fundraising duration of a successful project was 7 hours shorter than that of unsuccessful projects.
