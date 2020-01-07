@@ -23,25 +23,25 @@ Analysis of Kickstarter projects from 2009-2017 to determine the factors which c
 
 ### Analysis
 * US has most backers as well as highest successful projects.
-![KickStarter](Images/KickstarterProjectsbyCountry.png)
-![KickStarter](Images/SuccessfulKickstarterProjectsbyCountry.png)
+![KickStarter_ML](Images/KickstarterProjectsbyCountry.png)
+![KickStarter_ML](Images/SuccessfulKickstarterProjectsbyCountry.png)
 
 * Setting fundraising goal low helps in success in project.
 The median successful project had a funding goal nearly half of the median unsuccessful project.
 
 * Most of the projects were of Film and Video category.
-![KickStarter](Images/KickstarterProjectsbyCategory.png)
+![KickStarter_ML](Images/KickstarterProjectsbyCategory.png)
 
 * Most of the successful projects were from music category.
-![KickStarter](Images/SuccessfulKickstarterProjectsbyCategory.png)
+![KickStarter_ML](Images/SuccessfulKickstarterProjectsbyCategory.png)
 
 * Projects with duration (projects launched - fundraising deadline) of 700 hours have high chances to be successful.
 The median fundraising duration of a successful project was 7 hours shorter than that of unsuccessful projects.
-![KickStarter](Images/SuccessfulProjectDuration.png)
+![KickStarter_ML](Images/SuccessfulProjectDuration.png)
 
 * It has been seen that in 2009, KickStarter grew steadily and it was highest in 2015 and has started to slow down after that. But the spike in project count from 2013 to 2015 was not accompanied by an increase in pledges as nearly all the new project volume were failures.
-![KickStarter](Images/HistoricaltredOfProjects.png)
-![KickStarter](Images/HistoricalTrendOfSuccessfulVsFailedProjects.png)
+![KickStarter_ML](Images/HistoricaltredOfProjects.png)
+![KickStarter_ML](Images/HistoricalTrendOfSuccessfulVsFailedProjects.png)
 
 ### Conclusion to be successful on kickstarter:
 * Funding Goal: Set fundraising goal low.
