@@ -3,7 +3,7 @@
 ### Overview:
 KickStarter is a Crowdfunding project which is a great way to raise money for a project without taking out a loan. which makes it really easy for people to show others what their idea is and why it is worthwhile. However, since a crowdfunding campaign can make or break a business idea or career it is worth the time to investigate whether there are any keys to succeeding.
 
-#### Analysis has been done first with advanced excel and then done with python and it's linraries.
+#### Analysis has been done first with advanced excel and then done with python and it's libraries.
 
 ### Task:
 Analysis of Kickstarter projects from 2009-2017 to determine the factors which contribute to success.
